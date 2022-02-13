@@ -12,8 +12,8 @@ public class Main {
             bonus = 0;
         }
         int amount = startingScore + refill + bonus;
-        System.out.println( "Итоговый счет: " + amount + " рублей" );
+        System.out.println("Итоговый счет: " + amount + " рублей");
     }
-        }
+}
 
 
